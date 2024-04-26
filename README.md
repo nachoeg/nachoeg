@@ -1,3 +1,3 @@
 <p align="center">
-  <img width=300  src="/cat-coding.webp" >
+  <img width=300  src="/coding.gif" >
 </p>
