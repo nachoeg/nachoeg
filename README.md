@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 
 [![Command line](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=ACACAC&background=000000&vCenter=true&random=false&width=450&lines=%3E+Hola+mundo!+;%3E+Mi+nombre+es+Ignacio;%3E+Te+invito+a+ver+mi+portfolio!)
